@@ -1,4 +1,4 @@
-# PIPELINE CODE FOR NODEJS PROJECT
+// PIPELINE CODE FOR NODEJS PROJECT
 pipeline {
     agent {label 'JDK-11-MVN'}
     parameters {
